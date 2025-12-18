@@ -18,4 +18,20 @@ The objective of this project is to analyze the Amazon dataset to gain insights 
 - Price comparison and discount impact analysis  
 - Interactive Power BI dashboard with filters and KPIs
 
- 
+ ## 📂 Project Structure
+Amazon-Dataset-Analysis/
+-- data/ # Raw and cleaned datasets
+-- notebooks/ # Python notebooks for analysis
+-- sql/ # SQL queries
+-- dashboard/ # Power BI dashboard files
+-- reports/ # Insights and summary reports
+-- README.md # Project documentation
+
+## 📌 Use Cases
+- E-commerce product performance analysis  
+- Pricing and discount strategy evaluation  
+- Customer preference and behavior analysis  
+- Category-wise sales and rating comparison  
+- Business intelligence reporting for online marketplaces
+
+  
