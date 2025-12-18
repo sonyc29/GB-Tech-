@@ -1,2 +1,21 @@
-# GB-Tech (Amazon Dataset)
-I developed a comprehensive project in Excel, creating multiple dashboards and tables to analyze the data. This process involved several stages, including data preprocessing, data cleansing, and data visualization.
+# 📦 Amazon Dataset Analysis
+
+## 🎯 Project Objective
+The objective of this project is to analyze the Amazon dataset to gain insights into product performance, customer purchasing behavior, pricing trends, and ratings.The project focuses on transforming raw e-commerce data into meaningful insights and interactive visualizations to support data-driven business decisions.
+
+## 🛠️ Tools and Technologies
+- Python (Pandas, NumPy, Matplotlib)
+- SQL (Data querying and analysis)
+- Power BI (Interactive dashboard and visualization)
+- Excel / CSV files
+- Git & GitHub
+
+## ✨ Features
+- Data cleaning and preprocessing of Amazon product data  
+- Analysis of product categories, prices, and ratings  
+- Identification of top-selling and highly rated products  
+- Customer review and rating trend analysis  
+- Price comparison and discount impact analysis  
+- Interactive Power BI dashboard with filters and KPIs
+
+ 
